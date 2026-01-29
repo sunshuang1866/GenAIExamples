@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Copyright (C) 2025 Intel Corporation
+# Copyright (c) 2025 Huawei Technologies Co., Ltd. All Rights Reserved.
 # SPDX-License-Identifier: Apache-2.0
 
 SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &> /dev/null && pwd)
